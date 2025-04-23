@@ -1,13 +1,17 @@
 .container{
     text-align:center;
-    
     }
-
     .botoes{
- background-color: rgb(63, 155, 32);
- border-radius:5px;
- color:rgb(8, 8, 8);
- font-weight:700;
- border-color: rgb(63, 155, 32);
-
+    background-color: rgb(63, 155, 32);
+    border-radius:5px;
+    color:rgb(8, 8, 8);
+    font-weight:700;
+    border-color: rgb(63, 155, 32);
     }
+
+    :root {
+      --cor-principal: #6E859F;
+      --cor-secundaria: #284260;
+      --cor-destaque: #C92BFC;
+      }
+ 
